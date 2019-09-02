@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-intrepid",
+  "name": "eslint-config-craigums",
   "version": "1.0.0",
   "description": "Customized ESLint based on Airbnb's",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IntrepidStudios/eslint-config-intrepid.git"
+    "url": "git@github.com:craigsidcarlson/eslinter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IntrepidStudios/eslint-config-intrepid/issues"
+    "url": "https://github.com/craigsidcarlson/eslinter/issues"
   },
-  "homepage": "https://github.com/IntrepidStudios/eslint-config-intrepid#readme",
+  "homepage": "https://github.com/craigsidcarlson/eslinter/#readme",
   "dependencies": {
     "eslint-config-airbnb-base": "^13.1.0"
   },
