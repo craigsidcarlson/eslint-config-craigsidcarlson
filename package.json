@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-intrepid",
+  "version": "1.0.0",
+  "description": "Customized ESLint based on Airbnb's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntrepidStudios/eslint-config-intrepid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntrepidStudios/eslint-config-intrepid/issues"
+  },
+  "homepage": "https://github.com/IntrepidStudios/eslint-config-intrepid#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": "^4.19.1 || ^5.3.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
