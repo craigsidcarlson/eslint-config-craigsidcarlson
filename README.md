@@ -1,4 +1,4 @@
-# Intrepid ESLint Config
+# ESLint Config
 Customized ESLint based on [Airbnb's](https://github.com/airbnb/javascript).
 
 ## Usage
