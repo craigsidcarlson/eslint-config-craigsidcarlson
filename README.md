@@ -3,7 +3,7 @@ Customized ESLint based on [Airbnb's](https://github.com/airbnb/javascript).
 
 ## Usage
 ### Install Package and Peer Dependencies
-`npm i -D eslint eslint-plugin-import craigsidcarlson/eslint-config-craigums`
+`npm i -D eslint eslint-plugin-import craigsidcarlson/eslinter`
 
 ### Create .eslintrc File
 In the root directoy of your project create a file called `.eslintrc` and put
