@@ -1,5 +1,5 @@
 {
-  "name": "eslinter",
+  "name": "eslint-config-craigsidcarlson",
   "version": "1.0.0",
   "description": "Customized ESLint based on Airbnb's",
   "main": "index.js",
